@@ -16,5 +16,10 @@ def sqrt(a):
     
     res = math.sqrt(a)
     return res
+    
+if(__name__ == "__main__"):
+    print("You are into utils.py")
+    result = add(10, 20)
+    print(result)
 
-# print("You are into utils.py")
+
