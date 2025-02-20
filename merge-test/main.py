@@ -5,6 +5,6 @@ def main():
     a = 10
     b = 50
     result = add(a,b)
-    print("The result of the addition is {result}")
+    print("The result of the addition is", result)
 
 main()
